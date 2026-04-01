@@ -1,0 +1,24 @@
+{
+  "project": "F1 Race Strategy Optimizer",
+  "date": "2026-02-22",
+  "model_performance": {
+    "r2": 0.9374720858285398,
+    "mae": 0.6971633001077507,
+    "model_type": "RandomForestRegressor"
+  },
+  "optimal_strategy": {
+    "strategy": "1-stop MEDIUM\u2192HARD (late)",
+    "total_time_minutes": 84.84883819930471,
+    "compounds": "MEDIUM \u2192 HARD",
+    "pit_stops": 1
+  },
+  "optimal_pit_window": {
+    "lap": 31,
+    "stint_1_laps": 31,
+    "stint_2_laps": 27
+  },
+  "undercut_analysis": {
+    "optimal_laps_advantage": 3,
+    "net_gain_seconds": -42.442551403097994
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-04-01",
+  "circuit": "Bahrain Grand Prix",
+  "year": 2025,
+  "model": "XGBoost",
+  "model_r2": 0.9958,
+  "model_mae": 0.4138,
+  "optimal_strategy": {
+    "name": "1-stop MEDIUM\u2192HARD (lap 28)",
+    "compounds": "MEDIUM \u2192 HARD",
+    "time_min": 92.93,
+    "pit_stops": 1
+  },
+  "optimal_pit_lap": 25,
+  "pit_window": "laps 24\u201327"
+}

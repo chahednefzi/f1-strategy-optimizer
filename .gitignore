@@ -1,0 +1,33 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Cache FastF1
+cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+echo "data/all_laps_2024_2025.csv" >> .gitignore
+echo "models/lap_time_baseline_model.pkl" >> .gitignore
+echo "models/lap_time_rf_model.pkl" >> .gitignore
+echo "models/model_metadata.pkl" >> .gitignore
+echo "models/xgboost_lap_predictor.pkl" >> .gitignore
+echo "notebooks/test.ipynb" >> .gitignore
+# Old files
+data/all_laps_2024_2025.csv
+models/lap_time_baseline_model.pkl
+models/lap_time_rf_model.pkl
+models/model_metadata.pkl
+models/xgboost_lap_predictor.pkl
+notebooks/test.ipynb

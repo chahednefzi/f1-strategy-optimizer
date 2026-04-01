@@ -1,0 +1,7 @@
+Strategy,Compounds,Pit Stops,Total Time (s),Total Time (min),Avg Lap (s),Delta (s)
+1-stop MEDIUM→HARD (lap 28),MEDIUM → HARD,1,5575.8,92.93,97.821,0.0
+1-stop SOFT→HARD,SOFT → HARD,1,5577.33,92.96,97.848,1.53
+1-stop MEDIUM→HARD (lap 20),MEDIUM → HARD,1,5581.51,93.03,97.921,5.71
+2-stops MEDIUM→MEDIUM→HARD,MEDIUM → MEDIUM → HARD,2,5588.06,93.13,98.036,12.26
+2-stops SOFT→MEDIUM→HARD,SOFT → MEDIUM → HARD,2,5588.11,93.14,98.037,12.31
+1-stop MEDIUM→HARD (lap 35),MEDIUM → HARD,1,5600.66,93.34,98.257,24.86
